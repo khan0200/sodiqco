@@ -1,4 +1,4 @@
-# UniVisaCheck
+# SodiqCo Visa Checker
 
 A modern, real-time visa status tracking application for university students applying for Korean visas.
 
@@ -24,8 +24,8 @@ A modern, real-time visa status tracking application for university students app
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/univisacheck.git
-cd univisacheck
+git clone https://github.com/khan0200/sodiqco.git
+cd sodiqco
 ```
 
 1. Install dependencies:
